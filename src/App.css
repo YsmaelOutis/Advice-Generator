@@ -116,7 +116,7 @@ button {
 /* Mobile */
 @media (max-width: 540px) {
   main {
-    width: 100vw;
+    width: 95vw;
     padding: 24px 24px;
   }
 
